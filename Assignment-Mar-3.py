@@ -5,8 +5,8 @@ s=input("Enter a string:")
 print(s[::-1])
 
 # # output
-# Enter a string:Mnajunadh
-# hdanujanM
+# Enter a string:Manjunadh
+# hdanujnaM
 
 
 # 2. Write a Python program to print every alternate character from a given string using slicing.
